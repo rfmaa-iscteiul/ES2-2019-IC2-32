@@ -1,12 +1,10 @@
 
+import static org.junit.jupiter.api.Assertions.*;
 
-import static org.junit.Assert.assertEquals;
 
 import java.io.IOException;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import org.junit.jupiter.api.Test;
 
 /**
  * 
@@ -19,10 +17,17 @@ public class TestesUnitarios{
 	private HelloWorld hw;
 	
 	
+	 @Test
+	 public void teste() throws IOException{
+		 HelloWorld wd = new HelloWorld();
+		 String s = wd.print();
+		 assertEquals("Hello world this is ES group 32!!", s);
+		 
+	 }
+	@Test
 	public void testeHelloWorld() throws IOException{
 		hw = new HelloWorld();
 		String s = hw.print();
 		assertEquals("Hello world this is ES group 32!!",s);
 	}
-
 }
