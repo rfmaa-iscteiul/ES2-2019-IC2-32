@@ -1,4 +1,4 @@
-def dockeruser = ""
+def dockeruser = "54767"
 def imagename = "openjdk"
 def container = "HelloWorld"
 node {
