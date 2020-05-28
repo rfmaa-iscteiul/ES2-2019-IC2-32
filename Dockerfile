@@ -1,5 +1,5 @@
 FROM openjdk:7
-COPY . /usr/src/myapp
-WORKDIR /usr/src/myapp
-RUN javac Main.java
-CMD ["java", "Main"]
+COPY . \r_fma\git\ES2-2019-IC2-32\ProjectoES2\src\main\java\HelloWorld.java
+WORKDIR \r_fma\git\ES2-2019-IC2-32\ProjectoES2\src\main\java\HelloWorld.java
+RUN javac HelloWorld.java
+CMD ["java", "HelloWorld"]
