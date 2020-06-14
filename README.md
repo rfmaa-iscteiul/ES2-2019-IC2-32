@@ -1,6 +1,6 @@
 # ES2-2019-IC2-32
 
-Rúben Almeida - 54767;\n
+Rúben Almeida - 54767;
 João Ferro - 82108;
 Guilherme Almeida - 78600;
 António Godinho - 77676;
@@ -18,14 +18,14 @@ Funcionalidades parcialmente implementadas:
 Funcionalidades que se encontram com erros:
 
 --Complemneto 3 (Rúben Almeida)--
-Funcionalidades não implementadas:
-Funcionalidades parcialmente implementadas:
-Funcionalidades que se encontram com erros:
+Funcionalidades não implementadas: Nada a acrescentar 
+Funcionalidades parcialmente implementadas: Nada a acrescentar
+Funcionalidades que se encontram com erros: Execução da aplicação no site WP-CMS com erro: 403 Forbidden
 
 --Complemento 4 (João Ferro)--
-Funcionalidades não implementadas:
-Funcionalidades parcialmente implementadas:
-Funcionalidades que se encontram com erros:
+Funcionalidades não implementadas: Nada a acrescentar
+Funcionalidades parcialmente implementadas: Nada a acrescentar
+Funcionalidades que se encontram com erros: Execução da aplicação no site WP-CMS com erro: 403 Forbidden
 
 --Complemento 5 (António Godinho)--
 Funcionalidades não implementadas:
