@@ -8,9 +8,9 @@ Márcio Jesus - 82412.
 
 
 --Complemento 1 (Márcio Jesus)--
-Funcionalidades não implementadas:
-Funcionalidades parcialmente implementadas:
-Funcionalidades que se encontram com erros:
+Funcionalidades não implementadas: Nada a acrescentar 
+Funcionalidades parcialmente implementadas: File Management e Web Site Analytics
+Funcionalidades que se encontram com erros: Nada a acrescentar
 
 --Complemento 2 (Guilherme Almeida)--
 Funcionalidades não implementadas:
