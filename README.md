@@ -46,6 +46,6 @@ Funcionalidades parcialmente implementadas: Nada a acrescentar
 Funcionalidades que se encontram com erros: Execução da aplicação no site WP-CMS com erro: 403 Forbidden
 
 --Complemento 5 (António Godinho)--
-Funcionalidades não implementadas:
-Funcionalidades parcialmente implementadas:
-Funcionalidades que se encontram com erros:
+Funcionalidades não implementadas: 
+Funcionalidades parcialmente implementadas: Algumas querys não foram devidamente implementadas
+Funcionalidades que se encontram com erros: Devido a um erro no servidor não foi possível a execução da aplicação no site WP-CMS
