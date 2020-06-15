@@ -10,7 +10,16 @@ Márcio Jesus - 82412.
 --Complemento 1 (Márcio Jesus)--
 Funcionalidades não implementadas:
 Funcionalidades parcialmente implementadas:
-Funcionalidades que se encontram com erros:
+Funcionalidades que se encontram com erros: Monitorização da ferramenta do wordpress nao funcional para o website responsavel pelo Record metrics of availability/uptime and downtime, como nao faz o login envia o email necessário ao admin como requerido, no entanto esta parte foi descomentada pois nao estava totalmente funcional
+Instruções:
+- A parte do codigo que permite recorrentemente correr o programa de 2 em 2horas está descomentada pois foram efetuados os testes em tempo real para poder efetivamente testar o programa, no entanto ao descomentar já irá funcionar
+- A parte do login do wordpress poderá ter o user "guilhermee" tendo um "e" a mais no final foi usado para efetuar o teste,
+e ao estar incorreto envia email correspondente a erro no login ao admin
+- A aplicaçao corre e efetua logo a monitorizaçao entrando no site wordpress em localhost, em seguida preenche as credencias, de seguida entra o website wordpress, depois irá verificar o repository, forms no entanto como as paginas nao estao implementadas nesta parte verifica que nao estao disponiveis e envia email ao admin 
+- Logins disponiveis em codigo
+Gmail para receber os email de alerta da ferramenta de monitorizaçao - user "reportr22@gmail.com", pass "reportmonitoring2020"
+Uptime Robot (plugin externo disponivel via URL no wordpress) - https://uptimerobot.com/login user:gacaa@iscte-iul.pt pass:robot2020
+Wordpress - user:guilherme pass:ZLniRzUTYesiElkhH2
 
 --Complemento 2 (Guilherme Almeida)--
 Funcionalidades não implementadas:
