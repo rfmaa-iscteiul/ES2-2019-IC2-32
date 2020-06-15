@@ -2,7 +2,7 @@ Requisito 2 - Irá correr em backend como forma de monitorização. Tem uma part
 nomeadamente um link na página Web Site Analytics, para se aceder às métricas.
 
 Requisito 3 - Camada de backend que será utilizada para ler dados de pdfs presentes no 
-repositório do site - Covid Scientific Discoveries Repository, e gerar tabelas HTML em 
+repositório de um file system - Covid Scientific Discoveries Repository, e gerar tabelas HTML em 
 frontend com os dados recolhidos.
 
 Requisito 4 - Através de uma secção HTML, com tabelas HTML, a aplicação java irá buscar
