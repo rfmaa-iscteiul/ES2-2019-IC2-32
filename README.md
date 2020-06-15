@@ -47,5 +47,5 @@ Funcionalidades que se encontram com erros: Execução da aplicação no site WP
 
 --Complemento 5 (António Godinho)--
 Funcionalidades não implementadas: 
-Funcionalidades parcialmente implementadas: Algumas querys não foram devidamente implementadas
+Funcionalidades parcialmente implementadas: Algumas querys não foram devidamente implementadas, devido a um erro no servidor do WP-CMS
 Funcionalidades que se encontram com erros: Devido a um erro no servidor não foi possível a execução da aplicação no site WP-CMS
