@@ -1,0 +1,14 @@
+Requisito 2 - Irá correr em backend como forma de monitorização. Tem uma parte em frontend, 
+nomeadamente um link na página Web Site Analytics, para se aceder às métricas.
+
+Requisito 3 - Camada de backend que será utilizada para ler dados de pdfs presentes no 
+repositório do site - Covid Scientific Discoveries Repository, e gerar tabelas HTML em 
+frontend com os dados recolhidos.
+
+Requisito 4 - Através de uma secção HTML, com tabelas HTML, a aplicação java irá buscar
+informação ao git, construindo a tabela HTML, na página Covid Spread. É colocado também
+um link em frontend onde é possível visualizar o gráfico construído.
+
+Requisito 5 - Através do preenchimento de uma Web Form na página Covid Queries (em frontend), 
+existe uma aplicação em java na camada de backend que fará uma pesquisa com os critérios definidos
+na Web Form por parte de quem pretende realizar a pesquisa.

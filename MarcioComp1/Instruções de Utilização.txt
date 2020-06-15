@@ -1,0 +1,6 @@
+1º Fazer download do XAMPP para o sistema operativo indicado;
+2º Instalar na directoria C:\;
+3º Descomprimir o ficheiro .ZIP fornecido para dentro da pasta htdocs;
+4º Realizar a configuração para a máquina local;
+5º Abrir o XAMPP Control Panel e executar o Apache e o MySQL;
+6º Abrir um browser e aceder a localhost/wordpress
